@@ -1,0 +1,34 @@
+Sales Analysis Report 
+Maincrafts Technology Internship — Task 1 
+Prepared by: Arpit Kumar Dubey 
+ Date: 17 June 2026 
+1. Executive Summary 
+This report presents key findings from the Superstore Sales Dataset analysis including data 
+cleaning, exploratory analysis, SQL queries, and dashboard creation. 
+2. Key Metrics 
+Metric Value 
+Total Sales 
+Total Profit 
+$2,297,200 
+$286,397 
+Total Orders 9,994 
+Avg Order Value $229.86 
+3. Key Findings 
+A) Region Performance: 
+● West region generates highest sales ($725,457) 
+● South region has lowest sales ($391,721) 
+B) Category Profitability: 
+● Technology is most profitable ($145,454) 
+● Furniture has lowest profit ($18,451) 
+ scount Impact: 
+● Higher discounts lead to lower/negative profits 
+● 0% discount gives best profit margins 
+D) Monthly Trend: 
+● November and December show highest sales 
+● February shows lowest sales 
+4. Recommendations 
+1. Focus on West region — highest revenue generator 
+2. Promote Technology products — most profitable category 
+3. Reduce discounts — discounts negatively impact profit 
+4. Increase marketing in Q4 — November/December peak season 
+5. Improve Furniture margins — lowest profit category needs atte
